@@ -1,0 +1,5 @@
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/NeuralTextures/c23/953_974.mp4,64
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/NeuralTextures/c23/974_953.mp4,64
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/NeuralTextures/c23/012_026.mp4,65
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/NeuralTextures/c23/026_012.mp4,65
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/NeuralTextures/c23/078_955.mp4,105

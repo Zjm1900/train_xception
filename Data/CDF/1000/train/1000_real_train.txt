@@ -1,0 +1,11 @@
+0,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-real/id7_0008.mp4
+0,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-real/id4_0004.mp4
+0,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-real/id39_0006.mp4
+0,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-real/id48_0001.mp4
+0,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-real/id12_0002.mp4
+0,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-real/id1_0003.mp4
+0,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-real/id3_0005.mp4
+0,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-real/id50_0008.mp4
+0,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-real/id37_0005.mp4
+0,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-real/id11_0009.mp4
+0,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-real/id46_0002.mp4

@@ -1,0 +1,5 @@
+0,/mnt/shared/random/DFDC_Pre/faces/original_videos/2063898/2063898_D_001.mp4
+0,/mnt/shared/random/DFDC_Pre/faces/original_videos/1294671/1294671_A_002.mp4
+0,/mnt/shared/random/DFDC_Pre/faces/original_videos/1976794/1976794_E_001.mp4
+0,/mnt/shared/random/DFDC_Pre/faces/original_videos/1609928/1609928_C_003.mp4
+0,/mnt/shared/random/DFDC_Pre/faces/original_videos/1690464/1690464_C_003.mp4

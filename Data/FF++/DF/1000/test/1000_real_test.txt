@@ -1,0 +1,10 @@
+0,/mnt/shared/deepfake/FF++/faces/original_sequences/youtube/c23/953.mp4,71
+0,/mnt/shared/deepfake/FF++/faces/original_sequences/youtube/c23/974.mp4,64
+0,/mnt/shared/deepfake/FF++/faces/original_sequences/youtube/c23/012.mp4,73
+0,/mnt/shared/deepfake/FF++/faces/original_sequences/youtube/c23/026.mp4,65
+0,/mnt/shared/deepfake/FF++/faces/original_sequences/youtube/c23/078.mp4,105
+0,/mnt/shared/deepfake/FF++/faces/original_sequences/youtube/c23/955.mp4,107
+0,/mnt/shared/deepfake/FF++/faces/original_sequences/youtube/c23/623.mp4,71
+0,/mnt/shared/deepfake/FF++/faces/original_sequences/youtube/c23/630.mp4,85
+0,/mnt/shared/deepfake/FF++/faces/original_sequences/youtube/c23/919.mp4,107
+0,/mnt/shared/deepfake/FF++/faces/original_sequences/youtube/c23/015.mp4,88

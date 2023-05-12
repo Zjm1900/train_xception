@@ -1,0 +1,5 @@
+1,/mnt/shared/random/DFDC_Pre/faces/method_A/1224068/1224068_D/2057131_1224068_D_003.mp4
+1,/mnt/shared/random/DFDC_Pre/faces/method_A/1573558/1573558_A/1595866_1573558_A_000.mp4
+1,/mnt/shared/random/DFDC_Pre/faces/method_A/1997643/1997643_C/1853436_1997643_C_001.mp4
+1,/mnt/shared/random/DFDC_Pre/faces/method_A/1690464/1690464_A/748594_1690464_A_001.mp4
+1,/mnt/shared/random/DFDC_Pre/faces/method_A/1997643/1997643_C/748594_1997643_C_003.mp4

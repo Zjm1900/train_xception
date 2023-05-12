@@ -1,0 +1,10 @@
+0,/mnt/shared/random/DFDC_Pre/faces/original_videos/1733757/1733757_B_001.mp4
+0,/mnt/shared/random/DFDC_Pre/faces/original_videos/1997643/1997643_G_002.mp4
+0,/mnt/shared/random/DFDC_Pre/faces/original_videos/1941250/1941250_D_002.mp4
+0,/mnt/shared/random/DFDC_Pre/faces/original_videos/1782722/1782722_D_001.mp4
+0,/mnt/shared/random/DFDC_Pre/faces/original_videos/1681757/1681757_D_001.mp4
+0,/mnt/shared/random/DFDC_Pre/faces/original_videos/1681757/1681757_A_001.mp4
+0,/mnt/shared/random/DFDC_Pre/faces/original_videos/1941250/1941250_B_001.mp4
+0,/mnt/shared/random/DFDC_Pre/faces/original_videos/1294671/1294671_C_003.mp4
+0,/mnt/shared/random/DFDC_Pre/faces/original_videos/1976794/1976794_C_001.mp4
+0,/mnt/shared/random/DFDC_Pre/faces/original_videos/1645928/1645928_A_003.mp4

@@ -1,0 +1,13 @@
+1,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-synthesis/id32_id34_0002.mp4
+1,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-synthesis/id28_id0_0003.mp4
+1,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-synthesis/id35_id9_0006.mp4
+1,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-synthesis/id27_id23_0006.mp4
+1,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-synthesis/id26_id9_0009.mp4
+1,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-synthesis/id33_id32_0005.mp4
+1,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-synthesis/id16_id21_0006.mp4
+1,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-synthesis/id49_id56_0005.mp4
+1,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-synthesis/id20_id19_0002.mp4
+1,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-synthesis/id9_id21_0006.mp4
+1,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-synthesis/id43_id48_0003.mp4
+1,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-synthesis/id2_id35_0004.mp4
+1,/mnt/shared/deepfake/Celeb-DF-v2/faces/Celeb-synthesis/id21_id2_0009.mp4

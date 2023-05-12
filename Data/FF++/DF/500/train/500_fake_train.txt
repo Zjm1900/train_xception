@@ -1,0 +1,5 @@
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/Deepfakes/c23/071_054.mp4,91
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/Deepfakes/c23/054_071.mp4,74
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/Deepfakes/c23/087_081.mp4,62
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/Deepfakes/c23/081_087.mp4,234
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/Deepfakes/c23/881_856.mp4,128

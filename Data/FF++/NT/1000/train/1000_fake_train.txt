@@ -1,0 +1,11 @@
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/NeuralTextures/c23/071_054.mp4,74
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/NeuralTextures/c23/054_071.mp4,74
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/NeuralTextures/c23/087_081.mp4,62
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/NeuralTextures/c23/081_087.mp4,62
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/NeuralTextures/c23/881_856.mp4,128
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/NeuralTextures/c23/856_881.mp4,128
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/NeuralTextures/c23/187_234.mp4,106
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/NeuralTextures/c23/234_187.mp4,106
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/NeuralTextures/c23/645_688.mp4,111
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/NeuralTextures/c23/688_645.mp4,111
+1,/mnt/shared/deepfake/FF++/faces/manipulated_sequences/NeuralTextures/c23/754_758.mp4,79

@@ -1,0 +1,11 @@
+1,/mnt/shared/random/DFDC_Pre/faces/method_A/2090100/2090100_A/2022094_2090100_A_003.mp4
+1,/mnt/shared/random/DFDC_Pre/faces/method_A/1061402/1061402_A/2063898_1061402_A_002.mp4
+1,/mnt/shared/random/DFDC_Pre/faces/method_A/1003254/1003254_A/2011804_1003254_A_002.mp4
+1,/mnt/shared/random/DFDC_Pre/faces/method_A/748594/748594_F/1294671_748594_F_002.mp4
+1,/mnt/shared/random/DFDC_Pre/faces/method_A/1262961/1262961_E/1609928_1262961_E_003.mp4
+1,/mnt/shared/random/DFDC_Pre/faces/method_A/804259/804259_A/1795659_804259_A_002.mp4
+1,/mnt/shared/random/DFDC_Pre/faces/method_A/1916010/1916010_D/2113344_1916010_D_001.mp4
+1,/mnt/shared/random/DFDC_Pre/faces/method_A/1681757/1681757_D/2076328_1681757_D_001.mp4
+1,/mnt/shared/random/DFDC_Pre/faces/method_A/1853436/1853436_C/1916010_1853436_C_002.mp4
+1,/mnt/shared/random/DFDC_Pre/faces/method_A/1390015/1390015_A/1968328_1390015_A_000.mp4
+1,/mnt/shared/random/DFDC_Pre/faces/method_A/1433884/1433884_A/509537_1433884_A_002.mp4
