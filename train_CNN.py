@@ -128,10 +128,10 @@ if __name__ == '__main__':
     parse.add_argument('--val_list', '-vl' , type=str, default = '/home/zhongjieming/train_xception/fake_test_diff.txt')
     
     parse.add_argument('--batch_size', '-bz', type=int, default=8)
-    parse.add_argument('--epoches', '-e', type=int, default='9')
+    parse.add_argument('--epoches', '-e', type=int, default='20')
 
     # parse.add_argument('--model_name', '-mn', type=str, default='fs_c0_299.pkl')
-    parse.add_argument('--model_name', '-mn', type=str, default='demo.pkl')    
+    parse.add_argument('--model_name', '-mn', type=str, default='test.pkl')    
 
     parse.add_argument('--continue_train', type=bool, default=False)
 
