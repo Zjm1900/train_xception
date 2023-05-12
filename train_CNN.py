@@ -114,7 +114,7 @@ def main():
     model.load_state_dict(best_model_wts)
     torch.save(model.module.state_dict(), os.path.join(output_path, "best.pkl"))
 
-
+#做一些测试
 
 
 if __name__ == '__main__':
