@@ -120,7 +120,7 @@ def main():
 if __name__ == '__main__':
     parse = argparse.ArgumentParser(
         formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-    parse.add_argument('--name', '-n', type=str, default='this_is_a_test')
+    parse.add_argument('--name', '-n', type=str, default='try')
     
     # parse.add_argument('--train_list', '-tl' , type=str, default = './data_list/FaceSwap_c0_train.txt')
     # parse.add_argument('--val_list', '-vl' , type=str, default = './data_list/FaceSwap_c0_val.txt')
